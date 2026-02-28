@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1772266420519
+current_stage: None
+description: null
+last_updated_timestamp: 1772266420519
+name: production-model
+run_id: null
+run_link: null
+source: mlruns/1/b6ed8f7b21554e60b4410de481b80cc0/artifacts/model
+status: READY
+status_message: null
+storage_location: mlruns/1/b6ed8f7b21554e60b4410de481b80cc0/artifacts/model
+user_id: null
+version: 1
